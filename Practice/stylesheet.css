@@ -1,0 +1,36 @@
+body{
+    background-color: blue;
+}
+
+#Mothra{
+    color: darkgreen;
+    background-color: darkslateblue;
+
+
+}
+h1{
+    color: crimson; 
+    background-color: darkgoldenrod; 
+    text-align: center;
+}
+
+p{border:solid pink;
+}
+.Para2{
+    color: dimgrey;
+    background-color: firebrick;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0%;
+}
+
+img{
+    border: 20px solid greenyellow
+    
+}
+
+.Advent{
+    
+}
