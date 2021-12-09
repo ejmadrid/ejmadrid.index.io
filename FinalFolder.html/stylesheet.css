@@ -1,0 +1,52 @@
+body{
+    font-size: 18px;
+
+}
+
+h1{
+    font-size: 48px;
+    text-align: center;
+   color: white;
+
+}
+h2{
+    font-size: 36px;
+    color:#3A3B7B;
+    text-align: center;
+    
+
+}
+.para1{
+    color: white;
+    background-color:#7476ED ;
+    font-size: 36px;
+}
+.links{
+    font-size: 16px;
+    text-align: right;
+}
+
+.coffee{
+    width: 12px;
+    height: 16px;
+    
+
+}
+ul{
+    list-style-type: none;
+    padding: 0%;
+    
+}
+.para2{
+    text-align: center;
+}
+
+.p{
+    text-align: center;
+}
+.but{
+    text-align: center;
+}
+
+
+
