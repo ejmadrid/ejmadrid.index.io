@@ -24,13 +24,31 @@ p{border:solid pink;
 ul{
     list-style-type: none;
     padding: 0%;
+    
 }
 
+
 img{
-    border: 20px solid greenyellow
+    border: 1px solid greenyellow
+    
     
 }
 
 .Advent{
+    display: flex;
+    flex-direction: row-reverse;
+    flex-direction: wrap;
+
+}
+
+a{
+    color: green;
+}
+.links{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.list2{
     
 }
